@@ -29,7 +29,7 @@ El sitio utiliza animaciones y efectos visuales modernos para ofrecer una experi
     -   EmailJS para formularios de contacto
 -   **Lenguajes y Plataformas Adicionales:**
     -   C#
-    -   .NET 9
+    -   .NET 10
     -   SQL Server
     -   Python
     -   Java
@@ -38,6 +38,10 @@ El sitio utiliza animaciones y efectos visuales modernos para ofrecer una experi
     -   Visual Studio
     -   VS Code
     -   Figma
+    -   Windows Server
+    -   Ubuntu
+    -   Docker
+    -   Linux
 
 ---
 
